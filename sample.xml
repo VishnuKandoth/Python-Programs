@@ -1,0 +1,12 @@
+<elements>
+    <parent name="CategoryA">
+        <child value="A-1"/>
+        <child value="A-2"/>
+        <child value="A-3"/>
+    </parent>
+    <parent name="CategoryB">
+        <child value="B-1"/>
+        <child value="B-2"/>
+        <child value="B-3"/>
+    </parent>
+</elements>
